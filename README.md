@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Caleb.
 
-I'm a Frontend Developer and writer. I try as much as possible to create User interfaces that are aesthetic, accessible and iclusive for people. I'm also open to different ideas from people, and i'd love to contribute to open-source someday.
+I'm a Frontend Developer and writer. I try as much as possible to create User interfaces that are aesthetic, accessible and inclusive for people. I'm also open to different ideas from people, and i'd love to contribute to open-source someday.
 
 Cheers! :smile: :cocktail:
 
