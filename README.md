@@ -8,3 +8,5 @@ Cheers! :smile: :cocktail:
 - 👯 I’m looking to collaborate on projects that'd expose me to the world of open source software
 - 💬 Ask me about CSS animations and transitions.
 PS:- I'm not a guru, but i'd try as much as possible to assist you.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Caleb335)](https://github.com/anuraghazra/github-readme-stats)
