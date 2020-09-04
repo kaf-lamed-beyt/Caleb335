@@ -9,4 +9,3 @@ Cheers! :smile: :cocktail:
 - 💬 Ask me about CSS animations and transitions.
 PS:- I'm not a guru, but i'd try as much as possible to assist you.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Caleb335&theme=radical&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
