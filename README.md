@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Caleb.
 
-I'm a Frontend Developer and writer, I literally just implement/transform the designs of user interfaces on the web to things that are alive. 
+I'm a Frontend Developer and writer, I literally just implement/transform the designs of user interfaces to things that are alive on the web. 
 
 Cheers! :cocktail:
 
