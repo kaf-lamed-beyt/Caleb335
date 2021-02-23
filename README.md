@@ -4,7 +4,7 @@ I'm a Frontend Developer and writer, I literally just implement/transform the de
 
 Cheers! :cocktail:
 
-- I’m currently learning [ReactJS](https://reactjs.com) and how to make software accessible to people
+- I make use of [ReactJS](https://reactjs.com) to translate user interfaces that are aesthetic and accessible for people
 - Recently started using [NextJS](https://nextjs.org/) too.
 - Just getting familiar with the opensource software community
 
